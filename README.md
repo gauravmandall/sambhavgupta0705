@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/sambhavgupta0705)**
 
-- 📫 How to reach me **sambhavgupta0705@gmail.com**
+- 📫 You can reach me at **sambhavgupta0705@gmail.com**
 
-- ⚡ Fun fact **I love readings books.**
+- ⚡ Fun fact **I love reading books.**
 
 ## 🚀 Languages and Tools:
 
