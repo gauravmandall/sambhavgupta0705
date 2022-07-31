@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[WEATHER APP](https://github.com/sambhavgupta0705/Weather-App)**
+- 🔭 I’m currently working on **[Zoom Clone](https://github.com/sambhavgupta0705/Zoom-Clone)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
