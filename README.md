@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sambhav</h1>
-<h3 align="center">I'm a Frontend Developer from India.</h3>
+<h3 align="center">I'm a Frontend Developer and a UI/UX Designer.</h3>
 
 
 ## 🙋‍♂️ About Me
