@@ -1,10 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sambhav</h1>
-<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
+<h3 align="center">I'm a Frontend Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Zoom Clone](https://github.com/sambhavgupta0705/Zoom-Clone)**
+- 👨🏽‍💻 I'm currently working as a Technical Content Writer at **[Aviyel](https://aviyel.com/)
+
+- 🔭 I’m currently working on **[Personal Portfolio](https://github.com/sambhavgupta0705/Portfolio)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
