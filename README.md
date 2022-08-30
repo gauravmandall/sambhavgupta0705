@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨🏽‍💻 I'm currently working as a Technical Content Writer at **[Aviyel](https://aviyel.com/)
+- 👨🏽‍💻 I'm currently working as a Technical Content Writer at [Aviyel](https://aviyel.com/)
 
 - 🔭 I’m currently working on **[Personal Portfolio](https://github.com/sambhavgupta0705/Portfolio)**
 
